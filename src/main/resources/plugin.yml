@@ -1,0 +1,5 @@
+name: DeathRecorder
+version: ${project.version}
+main: me.lojosho.deathrecorder.DeathRecorder
+api-version: 1.16
+description: Used to record deaths
